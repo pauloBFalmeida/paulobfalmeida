@@ -6,17 +6,12 @@
       <ul>
         <li>🎓 &nbsp; I'm a Game Designer / Computer Scientist.</li>
         <li>🧠 &nbsp; Skilled in logic, data structures, systems programming, and game design.</li>
-        <li>🎮 &nbsp; I have experience in game and interactive system development using:
+        <li>🛠️ &nbsp; Technologies I frequently work with:
           <ul>
             <li>Unity (C#)</li>
             <li>Godot (GDScript)</li>
             <li>IoT prototyping with C++/Arduino</li>
-          </ul>
-        </li>
-        <li>🛠️ &nbsp; Technologies I frequently work with:
-          <ul>
-            <li>Unity, Godot, Unreal Engine</li>
-            <li>Linux, Git</li>
+<li>Windows, Linux, Git, Trello</li>
            </ul>
         <li>📷 &nbsp; I'm passionate about photography and astronomy, especially astrophotography.</li>
         <li>🧩 &nbsp; I enjoy 3D printing and modeling in my free time.</li>
