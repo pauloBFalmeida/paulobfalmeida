@@ -5,13 +5,12 @@
     <td>
       <ul>
         <li>🎓 &nbsp; I'm a Game Designer / Computer Scientist.</li>
-        <li>🧠 &nbsp; Skilled in logic, data structures, systems programming, and game design.</li>
         <li>🛠️ &nbsp; Technologies I frequently work with:
           <ul>
             <li>Unity (C#)</li>
             <li>Godot (GDScript)</li>
             <li>IoT prototyping with C++/Arduino</li>
-<li>Windows, Linux, Git, Trello</li>
+            <li>Windows, Linux, Git, Trello</li>
            </ul>
         <li>📷 &nbsp; I'm passionate about photography and astronomy, especially astrophotography.</li>
         <li>🧩 &nbsp; I enjoy 3D printing and modeling in my free time.</li>
@@ -47,7 +46,7 @@
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio badge" />
   </a>
   
-  <a href="https://yourcv.com" target="_blank">
+  <a href="https://paulobfalmeida.github.io/en/resume" target="_blank">
     <img src="https://img.shields.io/static/v1?message=CV&logo=academia&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="cv badge" />
   </a>
 
